@@ -12,7 +12,7 @@ export const loginWithEmailAndPassword = async (email, password) => {
 	}));
 };
 
-/**git 
+/**git
  * Logout user
  * @returns {Promise<void>}
  */
